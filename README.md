@@ -93,6 +93,4 @@ curl -X POST http://localhost:5000/predict/all \
 
 ---
 
-## ملاحظة
-موديل Gradient Boosting معلق مؤقتاً لأنه محتاج `scikit-learn==1.3.0` بالظبط.
-بعد تثبيت requirements.txt هيشتغل عادي.
+##
